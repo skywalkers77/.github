@@ -1,6 +1,6 @@
 # Astro — NASA Knowledge Base
 
-A full-stack **Retrieval-Augmented Generation (RAG)** system for querying NASA bioscience research. Built for the **NASA Space Apps 2025 NYC Hackathon**, where it won Best Cloudflair Implementation award for using the entirety of cf stack in its approach to document processing and AI-powered knowledge retrieval.
+A full-stack **Retrieval-Augmented Generation (RAG)** system for querying NASA bioscience research. Built for the **NASA Space Apps 2026 NYC Hackathon**, where it won Best Cloudflair Implementation award for using the entirety of cf stack in its approach to document processing and AI-powered knowledge retrieval.
 
 The project connects a serverless backend (Cloudflare Workers) that ingests PDFs and runs semantic search with a space-themed React frontend where users can chat with an AI that answers from those documents.
 
